@@ -16,6 +16,7 @@
 	transform: scale(1.2);
 	background-color: #0601D1;
 	color: white;
+	font-weight: bold;
 }
 /*card*/
 .card{
@@ -28,4 +29,9 @@
 }
 .card-footer{
 	color: #04C3EB;
+}
+.card-title{
+	text-transform: uppercase;
+	font-weight: bold;
+	font: 20px "Comic Sans MS";
 }
